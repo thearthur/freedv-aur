@@ -7,7 +7,7 @@ pkgdesc="Digital Voice for Radio Amateurs"
 arch=('i686' 'x86_64')
 license=('GPL2')
 url="http://freedv.org/"
-depends=('glibc' 'portaudio' 'hamlib' 'sox' 'wxgtk' 'codec2' 'speex' 'libao')
+depends=('glibc' 'portaudio' 'hamlib' 'sox' 'wxgtk' 'codec2-svn' 'speex' 'libao')
 #depends=('glibc' 'portaudio' 'hamlib' 'wxgtk' 'codec2' 'speex')
 makedepends=('cmake')
 
